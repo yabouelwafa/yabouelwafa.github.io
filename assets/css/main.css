@@ -2832,9 +2832,9 @@ input, select, textarea {
 				border-top-width: 0;
 			}
 
-				table.alt tbody tr td:first-child {
-					border-left-width: 1px;
-				}
+			table.alt tbody tr td:first-child {
+				border-left-width: 1px;
+			}
 
 			table.alt tbody tr:first-child td {
 				border-top-width: 1px;
